@@ -11,6 +11,7 @@
 
 # User-specific files
 .Ruserdata
+  
 
 # Example code in package build process
 *-Ex.R
@@ -23,6 +24,7 @@
 
 # RStudio files
 .Rproj.user/
+drought_index.Rproj
 
 # produced vignettes
 vignettes/*.html
